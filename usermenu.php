@@ -44,7 +44,7 @@ include('connection.php');
         <script type="text/javascript" src="js/jquery.magnific-popup.min.js"></script>
         <!-- Replace test API Key "AIzaSyCKSbrvQasunBoV16zDH9R33D88CeLr9gQ" with your own one below 
         **** You can get API Key here - https://developers.google.com/maps/documentation/javascript/get-api-key -->
-        <script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAZsDkJFLS0b59q7cmW0EprwfcfUA8d9dg"></script>
+        <script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCKSbrvQasunBoV16zDH9R33D88CeLr9gQ"></script>
         <script type="text/javascript" src="js/gmap3.min.js"></script>
         <script type="text/javascript" src="js/wow.min.js"></script>
         <script type="text/javascript" src="js/masonry.pkgd.min.js"></script>
